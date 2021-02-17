@@ -24,7 +24,7 @@ jconsole、jvisualvm、VisualGC、jmc
 
 清除算法，整理算法和复制算法的异同
 
-2、常见的GC算法
+### 2、常见的GC算法
 
 串行GC（Serial GC）/ ParNew GC
 
