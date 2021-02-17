@@ -1,6 +1,10 @@
 学习笔记
 
+# 第1课时
 
+
+
+# 第2课时
 
 ## JVM有哪些工具？
 
@@ -11,4 +15,20 @@ jarsijava、javac、javap、javadoc、javah、extcheck、jdb、jdeps、jar、key
 ### 2、图形化工具
 
 jconsole、jvisualvm、VisualGC、jmc
+
+## GC的相关基础知识
+
+### 1、GC的背景与一般原理
+
+为什么需要GC？因为内存资源是有限的，因此需要手动申请，手动释放
+
+清除算法，整理算法和复制算法的异同
+
+2、常见的GC算法
+
+串行GC（Serial GC）/ ParNew GC
+
+并行GC（Parallel GC）
+
+CMS GC / G1GC
 
