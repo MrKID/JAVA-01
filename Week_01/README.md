@@ -2,7 +2,7 @@
 
 # 第1课时
 
-![https://github.com/MrKID/JAVA-01/blob/main/Week_01/%E7%AC%AC1%E8%8A%82%E8%AF%BE/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6.png]()
+<img src="https://github.com/MrKID/JAVA-01/blob/main/Week_01/%E7%AC%AC1%E8%8A%82%E8%AF%BE/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6.png" />
 
 # 第2课时
 
