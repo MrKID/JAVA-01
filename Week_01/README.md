@@ -2,7 +2,7 @@
 
 # 第1课时
 
-<img src="https://github.com/MrKID/JAVA-01/blob/main/Week_01/%E7%AC%AC1%E8%8A%82%E8%AF%BE/classLoadModel.png" />
+.<img src="https://github.com/MrKID/JAVA-01/blob/main/Week_01/%E7%AC%AC1%E8%8A%82%E8%AF%BE/classLoadModel.png" />
 
 # 第2课时
 
